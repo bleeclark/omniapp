@@ -1,0 +1,23 @@
+{
+  "WELCOME": "/",
+  "ABOUT": "/about",
+  "MOTD": "/motd",
+  "LOCALIZATION": "/localization",
+  "UNDOREDO": "/undoredo",
+  "CONTEXTMENU": "/contextmenu",
+  "IMAGE": "/image",
+  "INSTAGRAM": "/instagram",
+  "MANCHESTERUNITED": "/manchesterunited",
+  "AITRADING": "/aitrading",
+  "AVIATOR": "/aviator",
+  "CRYPTOTRACKER": "/cryptotracker",
+  "OPENAICHAT": "/openaichat",
+  "SNEAKERMONITOR": "/sneakermonitor",
+  "TICKETMASTER": "/ticketmaster",
+  "TIKTOK": "/tiktok",
+  "AISCRAPER": "/aiscraper",
+  "SETTINGS": "/settings",
+  "NOTIFICATIONS": "/notifications",
+  "CHAT": "/chat",
+  "CONTACT": "/contact"
+}

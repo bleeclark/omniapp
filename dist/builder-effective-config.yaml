@@ -1,0 +1,27 @@
+directories:
+  output: dist
+  buildResources: resources
+productName: omnibots
+appId: com.omnibots|electron.omnibots
+files:
+  - filter:
+      - app/dist/**/*
+      - app/electron/**/*
+      - app/localization/!(locales)
+      - LICENSE
+extraFiles:
+  - filter:
+      - app/localization/locales/**/*
+      - license.data
+      - public.key
+win:
+  target:
+    - nsis
+    - msi
+linux:
+  target:
+    - deb
+    - rpm
+    - snap
+    - AppImage
+electronVersion: 19.0.10

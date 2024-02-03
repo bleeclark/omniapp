@@ -1,0 +1,29 @@
+assets by path [1m[32m*.js[39m[22m 15.4 MiB
+  assets by chunk 2.53 MiB (id hint: vendors)
+    asset [1m[32mvendors-node_modules_secure-electron-store_lib_index_js.bundle.js[39m[22m 1.28 MiB [1m[32m[emitted][39m[22m (id hint: vendors) 1 related asset
+    asset [1m[32mvendors-node_modules_react-router-dom_index_js-node_modules_three_build_three_module_js.bundle.js[39m[22m 1.26 MiB [1m[32m[emitted][39m[22m (id hint: vendors) 1 related asset
+  + 7 assets
+assets by path [1m[32m*.css[39m[22m 261 KiB
+  asset [1m[32mmain.css[39m[22m 241 KiB [1m[32m[emitted][39m[22m (name: main) 1 related asset
+  asset [1m[32mContextMenuChunk.css[39m[22m 17.9 KiB [1m[32m[emitted][39m[22m (name: ContextMenuChunk) 1 related asset
+  asset [1m[32mWelcomeChunk.css[39m[22m 1.5 KiB [1m[32m[emitted][39m[22m (name: WelcomeChunk) 1 related asset
+  asset [1m[32mUndoRedoChunk.css[39m[22m 743 bytes [1m[32m[emitted][39m[22m (name: UndoRedoChunk) 1 related asset
+  asset [1m[32mLocalizationChunk.css[39m[22m 388 bytes [1m[32m[emitted][39m[22m (name: LocalizationChunk) 1 related asset
+  asset [1m[32mAboutChunk.css[39m[22m 261 bytes [1m[32m[emitted][39m[22m (name: AboutChunk)
+asset [1m[32mindex.html[39m[22m 451 bytes [1m[32m[emitted][39m[22m
+Entrypoint [1mmain[39m[22m 2.79 MiB (3.03 MiB) = [1m[32mmain.css[39m[22m 241 KiB [1m[32mbundle.js[39m[22m 2.56 MiB 2 auxiliary assets
+runtime modules 164 KiB 98 modules
+orphan modules 407 KiB [1m[33m[orphan][39m[22m 14 modules
+modules by path [1m./node_modules/[39m[22m 4.75 MiB (javascript) 240 KiB (css/mini-extract) 317 modules
+modules by path [1m./app/[39m[22m 100 KiB (javascript) 18.8 KiB (css/mini-extract) 51 modules
+asset modules 10.3 MiB
+  [1m./resources/images/gordon.png[39m[22m 89.9 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./resources/images/testimage.png[39m[22m 9.48 KiB [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  + 10 modules
+optional modules 120 bytes [1m[33m[optional][39m[22m
+  [1mbuffer (ignored)[39m[22m 15 bytes [1m[33m[optional][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1mbuffer (ignored)[39m[22m 15 bytes [1m[33m[optional][39m[22m [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  + 6 modules
+[1mutil (ignored)[39m[22m 15 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+[1mutil (ignored)[39m[22m 15 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.74.0 compiled [1m[32msuccessfully[39m[22m in 2012 ms
